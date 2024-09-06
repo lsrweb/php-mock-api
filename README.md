@@ -20,9 +20,7 @@ php-mock-api
 
 ## File Descriptions
 
-- `src/controllers/MockDataController.php`: This file contains a class named `MockDataController` which provides methods for handling mock data APIs.
 
-- `src/models/MockDataModel.php`: This file contains a class named `MockDataModel` which defines the model for mock data.
 
 - `src/routes/api.php`: This file defines the routes for the mock data APIs.
 
